@@ -1,0 +1,292 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Association_rules.py	../小工具/Association_rules.py	1;"	kind:file	line:1
+City	../优化模型/sa_tsp_example.py	/^class City():$/;"	kind:class	line:9
+Cluster	../评价模型/cluster.py	/^class Cluster:$/;"	kind:class	line:8
+DIRECTION_BUY	../小工具/trade_account.py	/^DIRECTION_BUY = 0$/;"	kind:variable	line:11
+DIRECTION_SELL	../小工具/trade_account.py	/^DIRECTION_SELL = 1$/;"	kind:variable	line:12
+Evaluate	../预测模型/evaluate.py	/^class Evaluate:$/;"	kind:class	line:20
+GA	../优化模型/genetic_algorithm.py	/^    GA = GeneticAlgorithm()$/;"	kind:variable	line:129
+Gene	../优化模型/genetic_algorithm.py	/^class Gene():$/;"	kind:class	line:16
+GeneticAlgorithm	../优化模型/genetic_algorithm.py	/^class GeneticAlgorithm:$/;"	kind:class	line:62
+Gmap	../plot/google_map_api.py	/^def Gmap(centerLat,centerLon,zoomS,pixelS,size,dark,saveAddress):$/;"	kind:function	line:10
+Graph	../优化模型/sa_tsp_example.py	/^class Graph:$/;"	kind:class	line:16
+HMM.py	../预测模型/HMM.py	1;"	kind:file	line:1
+INSTRUMENT_FUTURE	../小工具/trade_account.py	/^INSTRUMENT_FUTURE = 1$/;"	kind:variable	line:9
+INSTRUMENT_OPTION	../小工具/trade_account.py	/^INSTRUMENT_OPTION = 0$/;"	kind:variable	line:8
+K_means	../评价模型/cluster.py	/^    def K_means(self, K, axis=0):$/;"	kind:member	line:16
+LSTM_predict.py	../预测模型/LSTM_predict.py	1;"	kind:file	line:1
+M	../plot/google_map_api.py	/^    M = {}$/;"	kind:variable	line:57
+ML_classify_model.py	../预测模型/ML_classify_model.py	1;"	kind:file	line:1
+MyGaussianHMM	../预测模型/HMM.py	/^def MyGaussianHMM():$/;"	kind:function	line:106
+MyMultinomialHMM	../预测模型/HMM.py	/^def MyMultinomialHMM():$/;"	kind:function	line:46
+MySOM	../评价模型/SOM.py	/^class MySOM:$/;"	kind:class	line:25
+NeuralNetwork	../预测模型/neural_network.py	/^class NeuralNetwork:$/;"	kind:class	line:130
+Node	../预测模型/decision_tree.py	/^class Node:$/;"	kind:class	line:6
+OPENTYPE_CLOSE	../小工具/trade_account.py	/^OPENTYPE_CLOSE = 1 $/;"	kind:variable	line:15
+OPENTYPE_OPEN	../小工具/trade_account.py	/^OPENTYPE_OPEN = 0$/;"	kind:variable	line:14
+PSO	../优化模型/PSO.py	/^class PSO():$/;"	kind:class	line:39
+PSO.py	../优化模型/PSO.py	1;"	kind:file	line:1
+PositionQueue	../小工具/trade_account.py	/^class PositionQueue:$/;"	kind:class	line:27
+SOM.py	../评价模型/SOM.py	1;"	kind:file	line:1
+SVR.py	../预测模型/SVR.py	1;"	kind:file	line:1
+SimulatedAnnealing	../优化模型/simulated_annealing.py	/^class SimulatedAnnealing:$/;"	kind:class	line:49
+TYPE_CONTINUE	../预测模型/evaluate.py	/^TYPE_CONTINUE = 2       # 实际值与预测值均为连续$/;"	kind:variable	line:17
+TYPE_DISCRETE	../预测模型/evaluate.py	/^TYPE_DISCRETE = 0       # 实际值与预测值均为离散$/;"	kind:variable	line:15
+TYPE_DISCRETE_2	../预测模型/evaluate.py	/^TYPE_DISCRETE_2 =1      # 实际值为离散，预测值为连续 logistic$/;"	kind:variable	line:16
+TradeAccount	../小工具/trade_account.py	/^class TradeAccount:$/;"	kind:class	line:65
+Tree	../预测模型/decision_tree.py	/^class Tree:$/;"	kind:class	line:17
+ValueCalculate	../小工具/trade_account.py	/^class ValueCalculate():$/;"	kind:class	line:168
+Wind2Df	../小工具/due_date_calculate.py	/^def Wind2Df(wind_data):$/;"	kind:function	line:8
+Wind2Df	../预测模型/neural_network.py	/^def Wind2Df(wind_data):$/;"	kind:function	line:230
+X	../预测模型/SVR.py	/^X = boston.data$/;"	kind:variable	line:9
+X_test	../预测模型/SVR.py	/^X_test = ss_X.transform(X_test)$/;"	kind:variable	line:24
+X_train	../预测模型/SVR.py	/^X_train = ss_X.fit_transform(X_train)$/;"	kind:variable	line:23
+__doc__	../优化模型/genetic_algorithm.py	/^    __doc__ = "个体基因类，存储单个基因"$/;"	kind:variable	line:18
+__init__	../优化模型/PSO.py	/^    def __init__(self, particle_number=10, variable_number=1):$/;"	kind:member	line:41
+__init__	../优化模型/genetic_algorithm.py	/^    def __init__(self):$/;"	kind:member	line:64
+__init__	../优化模型/genetic_algorithm.py	/^    def __init__(self, gene_length=10, float_length=4):$/;"	kind:member	line:20
+__init__	../优化模型/sa_tsp_example.py	/^    def __init__(self):$/;"	kind:member	line:18
+__init__	../优化模型/sa_tsp_example.py	/^    def __init__(self, x, y):$/;"	kind:member	line:11
+__init__	../优化模型/simulated_annealing.py	/^    def __init__(self, func):$/;"	kind:member	line:51
+__init__	../小工具/trade_account.py	/^    def __init__(self):$/;"	kind:member	line:29
+__init__	../小工具/trade_account.py	/^    def __init__(self, capital_list, init_capital):$/;"	kind:member	line:170
+__init__	../小工具/trade_account.py	/^    def __init__(self, init_capital):$/;"	kind:member	line:67
+__init__	../评价模型/SOM.py	/^    def __init__(self, df, mapsize, initialization = 'random'):$/;"	kind:member	line:26
+__init__	../评价模型/cluster.py	/^    def __init__(self, df):$/;"	kind:member	line:10
+__init__	../预测模型/ML_classify_model.py	/^    def __init__(self, train_x, train_y):$/;"	kind:member	line:7
+__init__	../预测模型/decision_tree.py	/^    def __init__(self, df):$/;"	kind:member	line:23
+__init__	../预测模型/decision_tree.py	/^    def __init__(self, feature, df):$/;"	kind:member	line:8
+__init__	../预测模型/evaluate.py	/^    def __init__(self, true_array, predict_array, pred_type = TYPE_DISCRETE):$/;"	kind:member	line:22
+__init__	../预测模型/neural_network.py	/^    def __init__(self, input_layer, hide_layer, output_layer, df):$/;"	kind:member	line:132
+__slots__	../优化模型/sa_tsp_example.py	/^    __slots__ = ("X", "Y")$/;"	kind:variable	line:10
+_generate_data	../预测模型/neural_network.py	/^def _generate_data():$/;"	kind:function	line:19
+_pca	../评价模型/cluster.py	/^    def _pca(self):$/;"	kind:member	line:65
+accuracy	../预测模型/evaluate.py	/^    def accuracy(self):$/;"	kind:member	line:28
+add	../小工具/trade_account.py	/^    def add(self, instrument, direction, price):$/;"	kind:member	line:34
+add_city	../优化模型/sa_tsp_example.py	/^    def add_city(self, city):$/;"	kind:member	line:26
+auto_cluster	../评价模型/cluster.py	/^    def auto_cluster(self):$/;"	kind:member	line:71
+ax	../plot/google_map_api.py	/^    ax = plt.subplot(111)$/;"	kind:variable	line:65
+ax	../小工具/data_clean.py	/^    ax = plt.subplot(111)$/;"	kind:variable	line:179
+ax1	../小工具/due_date_calculate.py	/^ax1 = fig.add_subplot(211)$/;"	kind:variable	line:61
+ax2	../小工具/due_date_calculate.py	/^ax2 = fig.add_subplot(212)$/;"	kind:variable	line:62
+begin	../优化模型/genetic_algorithm.py	/^    def begin(self):$/;"	kind:member	line:103
+begin	../优化模型/simulated_annealing.py	/^    def begin(self):$/;"	kind:member	line:66
+bin2dec	../优化模型/genetic_algorithm.py	/^    def bin2dec(self):$/;"	kind:member	line:34
+boston	../预测模型/SVR.py	/^boston = load_boston()$/;"	kind:variable	line:3
+chinese_province_list	../优化模型/sa_tsp_example.py	/^    chinese_province_list = [$/;"	kind:variable	line:146
+choose_gene	../优化模型/genetic_algorithm.py	/^    def choose_gene(self, rand):$/;"	kind:member	line:81
+city_a	../优化模型/sa_tsp_example.py	/^    city_a = City(0, 0)$/;"	kind:variable	line:101
+city_b	../优化模型/sa_tsp_example.py	/^    city_b = City(0, 1)$/;"	kind:variable	line:102
+city_c	../优化模型/sa_tsp_example.py	/^    city_c = City(1, 0)$/;"	kind:variable	line:103
+city_d	../优化模型/sa_tsp_example.py	/^    city_d = City(1, 1)$/;"	kind:variable	line:104
+city_list	../优化模型/sa_tsp_example.py	/^    city_list = [$/;"	kind:variable	line:106
+classify_report	../预测模型/evaluate.py	/^    def classify_report(self):$/;"	kind:member	line:67
+clu	../评价模型/cluster.py	/^    clu = Cluster(df)$/;"	kind:variable	line:82
+cluster	../评价模型/SOM.py	/^    def cluster(self, n):$/;"	kind:member	line:65
+cluster.py	../评价模型/cluster.py	1;"	kind:file	line:1
+cluster_plot	../评价模型/cluster.py	/^    def cluster_plot(self, label):$/;"	kind:member	line:55
+confusion_matrix	../预测模型/evaluate.py	/^    def confusion_matrix(self):$/;"	kind:member	line:43
+confusion_matrix_plot	../预测模型/evaluate.py	/^    def confusion_matrix_plot(self, cmap=plt.cm.Blues):$/;"	kind:member	line:46
+create_dataset	../预测模型/LSTM_predict.py	/^def create_dataset(dataset, look_back=1):$/;"	kind:function	line:23
+cross	../优化模型/genetic_algorithm.py	/^    def cross(gene1, gene2):$/;"	kind:member	line:44
+data	../plot/google_map_api.py	/^    data = {'23.157105_113.256031': 5,$/;"	kind:variable	line:53
+data	../评价模型/SOM.py	/^    data = fetch_california_housing()$/;"	kind:variable	line:96
+data	../评价模型/SOM.py	/^    data = np.column_stack([data.data, data.target])$/;"	kind:variable	line:99
+data_clean.py	../小工具/data_clean.py	1;"	kind:file	line:1
+data_pre_handle	../预测模型/neural_network.py	/^    def data_pre_handle(self, df):$/;"	kind:member	line:137
+data_set	../预测模型/decision_tree.py	/^    data_set = [$/;"	kind:variable	line:72
+dataframe	../预测模型/LSTM_predict.py	/^dataframe = read_csv('..\/dataset\/international-airline-passengers.csv', usecols=[1], engine='python', skipfooter=3)$/;"	kind:variable	line:40
+dataset	../预测模型/LSTM_predict.py	/^dataset = dataframe.values$/;"	kind:variable	line:41
+dataset	../预测模型/LSTM_predict.py	/^dataset = dataset.astype('float32')$/;"	kind:variable	line:42
+dataset	../预测模型/LSTM_predict.py	/^dataset = scaler.fit_transform(dataset)$/;"	kind:variable	line:45
+decision_tree	../预测模型/ML_classify_model.py	/^    def decision_tree(self):$/;"	kind:member	line:26
+decision_tree.py	../预测模型/decision_tree.py	1;"	kind:file	line:1
+descr	../评价模型/SOM.py	/^    descr = data.DESCR$/;"	kind:variable	line:97
+df	../小工具/data_clean.py	/^    df = fill_na(df)$/;"	kind:variable	line:161
+df	../小工具/data_clean.py	/^    df = label_encode(df, ['make', 'foreign'])$/;"	kind:variable	line:155
+df	../小工具/data_clean.py	/^    df = pd.read_csv("\/home\/ray\/Documents\/suibe\/2017\/建模\/Modeling_Preparation\/dataset\/auto.csv")$/;"	kind:variable	line:151
+df	../小工具/data_clean.py	/^    df = standardize(df, ['make','foreign']) # 这两列是分类变量，不需要标准化$/;"	kind:variable	line:164
+df	../评价模型/SOM.py	/^    df = pd.DataFrame(data)$/;"	kind:variable	line:100
+df	../评价模型/cluster.py	/^    df = df.dropna(axis=0)$/;"	kind:variable	line:81
+df	../评价模型/cluster.py	/^    df = pd.read_csv("\/home\/ray\/Documents\/suibe\/2017\/建模\/Modeling_Preparation\/dataset\/auto_1.csv")$/;"	kind:variable	line:80
+df	../预测模型/ML_classify_model.py	/^    df = df.dropna(axis=0)$/;"	kind:variable	line:64
+df	../预测模型/ML_classify_model.py	/^    df = pd.read_csv("..\/dataset\/auto_1.csv")$/;"	kind:variable	line:63
+df	../预测模型/decision_tree.py	/^    df = pd.DataFrame(data_set)$/;"	kind:variable	line:84
+df	../预测模型/neural_network.py	/^    df = Wind2Df(w.wst("IC1709.CFE",$/;"	kind:variable	line:249
+df2	../小工具/data_clean.py	/^    df2 = winsorize(df,1,99)$/;"	kind:variable	line:177
+df_all	../小工具/due_date_calculate.py	/^df_all = pd.merge(df_if00, df_if01, left_index=True, right_index=True)$/;"	kind:variable	line:46
+df_all1	../小工具/due_date_calculate.py	/^df_all1 = df_all.copy()$/;"	kind:variable	line:54
+df_columns	../小工具/data_clean.py	/^    df_columns = df.columns$/;"	kind:variable	line:152
+df_if00	../小工具/due_date_calculate.py	/^df_if00 = Wind2Df(w.wsi("IF00.CFE", "close, volume", "2016-02-01 09:30:00", "2017-08-16 13:48:43", "periodstart=09:30:00;periodend=15:00:00"))$/;"	kind:variable	line:41
+df_if01	../小工具/due_date_calculate.py	/^df_if01 = Wind2Df(w.wsi("IF01.CFE", "close, volume", "2016-02-01 09:30:00", "2017-08-16 13:48:43", "periodstart=09:30:00;periodend=15:00:00"))$/;"	kind:variable	line:42
+display	../小工具/trade_account.py	/^    def display(self):$/;"	kind:member	line:266
+display	../小工具/trade_account.py	/^    def display(self):$/;"	kind:member	line:61
+display	../预测模型/evaluate.py	/^    def display(self):$/;"	kind:member	line:123
+display_node	../预测模型/decision_tree.py	/^    def display_node(self, node, depth):$/;"	kind:member	line:61
+draw_cluster_map	../评价模型/SOM.py	/^    def draw_cluster_map(self):$/;"	kind:member	line:59
+draw_hit_map	../评价模型/SOM.py	/^    def draw_hit_map(self):$/;"	kind:member	line:53
+draw_input_weights	../评价模型/SOM.py	/^    def draw_input_weights(self):$/;"	kind:member	line:47
+drop_duplicate	../小工具/data_clean.py	/^def drop_duplicate(df, columns=[]):$/;"	kind:function	line:129
+due_date_calculate.py	../小工具/due_date_calculate.py	1;"	kind:file	line:1
+end_trade	../小工具/trade_account.py	/^    def end_trade(self):$/;"	kind:member	line:163
+eva_0	../预测模型/evaluate.py	/^    eva_0 = Evaluate(true_y_0, pred_y_0, TYPE_DISCRETE)$/;"	kind:variable	line:157
+eva_1	../预测模型/evaluate.py	/^    eva_1 = Evaluate(true_y_1, pred_y_1, TYPE_DISCRETE_2)$/;"	kind:variable	line:158
+eva_2	../预测模型/evaluate.py	/^    eva_2 = Evaluate(true_y_2, pred_y_2, TYPE_CONTINUE)$/;"	kind:variable	line:159
+evaluate.py	../预测模型/evaluate.py	1;"	kind:file	line:1
+exeTime	../优化模型/simulated_annealing.py	/^def exeTime(func):$/;"	kind:function	line:35
+explained_variance	../预测模型/evaluate.py	/^    def explained_variance(self):$/;"	kind:member	line:104
+f1	../预测模型/evaluate.py	/^    def f1(self):$/;"	kind:member	line:38
+fig	../小工具/due_date_calculate.py	/^fig = plt.figure()$/;"	kind:variable	line:60
+filename	../plot/google_map_api.py	/^    filename = ".\/datafile\/beijing.png"$/;"	kind:variable	line:48
+fill_na	../小工具/data_clean.py	/^def fill_na(df, excep_columns=[], how='mean'):$/;"	kind:function	line:27
+fnn_begin	../预测模型/neural_network.py	/^def fnn_begin():$/;"	kind:function	line:125
+func	../优化模型/PSO.py	/^    def func(self, array):$/;"	kind:member	line:56
+future_parameter	../小工具/trade_account.py	/^future_parameter = {$/;"	kind:variable	line:17
+gen_due_date	../小工具/due_date_calculate.py	/^def gen_due_date(year, month):$/;"	kind:function	line:20
+gen_new_sequence	../优化模型/sa_tsp_example.py	/^def gen_new_sequence(sequence):$/;"	kind:function	line:60
+gen_new_x	../优化模型/simulated_annealing.py	/^    def gen_new_x(self, x_before, T):$/;"	kind:member	line:59
+gen_tree	../预测模型/decision_tree.py	/^    def gen_tree(self, node):$/;"	kind:member	line:42
+gene_pop	../优化模型/genetic_algorithm.py	/^    def gene_pop(self):$/;"	kind:member	line:94
+genetic_algorithm.py	../优化模型/genetic_algorithm.py	1;"	kind:file	line:1
+get_annual_return	../小工具/trade_account.py	/^    def get_annual_return(self):$/;"	kind:member	line:190
+get_average_return	../小工具/trade_account.py	/^    def get_average_return(self):$/;"	kind:member	line:193
+get_best_gene	../优化模型/genetic_algorithm.py	/^    def get_best_gene(self):$/;"	kind:member	line:77
+get_cluster_label	../评价模型/SOM.py	/^    def get_cluster_label(self):$/;"	kind:member	line:68
+get_continue_lose_times	../小工具/trade_account.py	/^    def get_continue_lose_times(self):$/;"	kind:member	line:240
+get_continue_win_times	../小工具/trade_account.py	/^    def get_continue_win_times(self):$/;"	kind:member	line:229
+get_distance	../优化模型/sa_tsp_example.py	/^    def get_distance(city1, city2):$/;"	kind:member	line:23
+get_due_date	../小工具/due_date_calculate.py	/^def get_due_date(date):$/;"	kind:function	line:28
+get_feature	../预测模型/decision_tree.py	/^    def get_feature(self, df):$/;"	kind:member	line:28
+get_fit_value	../优化模型/genetic_algorithm.py	/^    def get_fit_value(self):$/;"	kind:member	line:74
+get_fit_value	../优化模型/genetic_algorithm.py	/^    def get_fit_value(self, func):$/;"	kind:member	line:58
+get_fnn	../预测模型/neural_network.py	/^    def get_fnn(self, i, h, o):$/;"	kind:member	line:153
+get_fnn	../预测模型/neural_network.py	/^def get_fnn():$/;"	kind:function	line:42
+get_label	../评价模型/SOM.py	/^    def get_label(self):$/;"	kind:member	line:79
+get_lose_times	../小工具/trade_account.py	/^    def get_lose_times(self):$/;"	kind:member	line:211
+get_max_drawdown	../小工具/trade_account.py	/^    def get_max_drawdown(self):$/;"	kind:member	line:251
+get_max_lose	../小工具/trade_account.py	/^    def get_max_lose(self):$/;"	kind:member	line:226
+get_max_win	../小工具/trade_account.py	/^    def get_max_win(self):$/;"	kind:member	line:223
+get_neurons	../评价模型/SOM.py	/^    def get_neurons(self):$/;"	kind:member	line:72
+get_return_list	../小工具/trade_account.py	/^    def get_return_list(self):$/;"	kind:member	line:177
+get_return_volatility	../小工具/trade_account.py	/^    def get_return_volatility(self):$/;"	kind:member	line:199
+get_sharp_ratio	../小工具/trade_account.py	/^    def get_sharp_ratio(self):$/;"	kind:member	line:261
+get_shortest_distance	../优化模型/sa_tsp_example.py	/^def get_shortest_distance(graph):$/;"	kind:function	line:67
+get_total_distance	../优化模型/sa_tsp_example.py	/^    def get_total_distance(self, sequence = None):$/;"	kind:member	line:37
+get_total_return	../小工具/trade_account.py	/^    def get_total_return(self):$/;"	kind:member	line:187
+get_total_trade_times	../小工具/trade_account.py	/^    def get_total_trade_times(self):$/;"	kind:member	line:196
+get_train_data	../预测模型/neural_network.py	/^    def get_train_data(self, input_layer, output_layer):$/;"	kind:member	line:179
+get_train_data	../预测模型/neural_network.py	/^def get_train_data():$/;"	kind:function	line:70
+get_win_lose_ratio	../小工具/trade_account.py	/^    def get_win_lose_ratio(self):$/;"	kind:member	line:218
+get_win_ratio	../小工具/trade_account.py	/^    def get_win_ratio(self):$/;"	kind:member	line:215
+get_win_times	../小工具/trade_account.py	/^    def get_win_times(self):$/;"	kind:member	line:207
+google_map_api.py	../plot/google_map_api.py	1;"	kind:file	line:1
+graph	../优化模型/sa_tsp_example.py	/^    graph = Graph()$/;"	kind:variable	line:180
+hamming_distance	../预测模型/evaluate.py	/^    def hamming_distance(self):$/;"	kind:member	line:96
+have_position	../小工具/trade_account.py	/^    def have_position(self, instrument, direction):$/;"	kind:member	line:49
+hierarchial_plot	../评价模型/cluster.py	/^    def hierarchial_plot(self, Z):$/;"	kind:member	line:41
+hierarchical	../评价模型/cluster.py	/^    def hierarchical(self):$/;"	kind:member	line:30
+im	../plot/google_map_api.py	/^    im = Image.open(filename)#np.flipud(plt.imread(filename))$/;"	kind:variable	line:64
+initial_gene	../优化模型/genetic_algorithm.py	/^    def initial_gene(self):$/;"	kind:member	line:25
+initial_particle	../优化模型/PSO.py	/^    def initial_particle(self):$/;"	kind:member	line:65
+interpolate_na	../小工具/data_clean.py	/^def interpolate_na(df, excep_columns=[], how='lagrange'):$/;"	kind:function	line:46
+is_due_date	../小工具/due_date_calculate.py	/^def is_due_date(date):$/;"	kind:function	line:14
+jaccard_distance	../预测模型/evaluate.py	/^    def jaccard_distance(self):$/;"	kind:member	line:100
+kappa_score	../预测模型/evaluate.py	/^    def kappa_score(self):$/;"	kind:member	line:71
+knn	../预测模型/ML_classify_model.py	/^    def knn(self, k=3):$/;"	kind:member	line:12
+label	../评价模型/cluster.py	/^    label = clu.K_means(4)$/;"	kind:variable	line:84
+label2	../评价模型/cluster.py	/^    label2 = clu.hierarchical()$/;"	kind:variable	line:87
+label_encode	../小工具/data_clean.py	/^def label_encode(df, encode_column=[]):$/;"	kind:function	line:114
+latLonToPixelXY	../plot/google_map_api.py	/^def latLonToPixelXY(lat,lon,zoomS):$/;"	kind:function	line:28
+linear_svr	../预测模型/SVR.py	/^linear_svr = SVR(kernel = 'linear')$/;"	kind:variable	line:30
+linear_svr_y_predict	../预测模型/SVR.py	/^linear_svr_y_predict = linear_svr.predict(X_test)$/;"	kind:variable	line:34
+logistic	../预测模型/ML_classify_model.py	/^    def logistic(self):$/;"	kind:member	line:19
+look_back	../预测模型/LSTM_predict.py	/^look_back = 2$/;"	kind:variable	line:51
+mc	../预测模型/ML_classify_model.py	/^    mc = myclassify(df.iloc[:, 0:10], df.iloc[:,-1])$/;"	kind:variable	line:65
+mean_absolute_error	../预测模型/evaluate.py	/^    def mean_absolute_error(self):$/;"	kind:member	line:112
+mean_squared_error	../预测模型/evaluate.py	/^    def mean_squared_error(self):$/;"	kind:member	line:108
+median_absolute_error	../预测模型/evaluate.py	/^    def median_absolute_error(self):$/;"	kind:member	line:116
+model	../预测模型/LSTM_predict.py	/^model = Sequential()$/;"	kind:variable	line:59
+mutation	../优化模型/genetic_algorithm.py	/^    def mutation(self):$/;"	kind:member	line:51
+my_som	../评价模型/SOM.py	/^    my_som = MySOM(df, (20,20))$/;"	kind:variable	line:103
+myclassify	../预测模型/ML_classify_model.py	/^class myclassify():$/;"	kind:class	line:6
+naive_bayes	../预测模型/ML_classify_model.py	/^    def naive_bayes(self):$/;"	kind:member	line:33
+names	../评价模型/SOM.py	/^    names = data.feature_names+["HouseValue"]$/;"	kind:variable	line:98
+neural_network.py	../预测模型/neural_network.py	1;"	kind:file	line:1
+newFunc	../优化模型/simulated_annealing.py	/^    def newFunc(*args, **args2):$/;"	kind:function	line:36
+nn	../预测模型/neural_network.py	/^    nn = NeuralNetwork(15, 15, 1, df)$/;"	kind:variable	line:252
+normalize	../小工具/data_clean.py	/^def normalize(df, excep_columns=[]):$/;"	kind:function	line:100
+option_parameter	../小工具/trade_account.py	/^option_parameter = {$/;"	kind:variable	line:23
+order_future	../小工具/trade_account.py	/^    def order_future(self, price, instrument, direction, open_type, amount=1):$/;"	kind:member	line:74
+order_option	../小工具/trade_account.py	/^    def order_option(self, price, instrument, direction, open_type, amount):$/;"	kind:member	line:118
+ployinterp_column	../小工具/data_clean.py	/^        def ployinterp_column(s, n, k=5):$/;"	kind:function	line:59
+poly_svr	../预测模型/SVR.py	/^poly_svr = SVR(kernel = 'poly')$/;"	kind:variable	line:36
+poly_svr_y_predict	../预测模型/SVR.py	/^poly_svr_y_predict = poly_svr.predict(X_test)$/;"	kind:variable	line:38
+pop	../小工具/trade_account.py	/^    def pop(self, instrument, direction):$/;"	kind:member	line:42
+pred_y_0	../预测模型/evaluate.py	/^    pred_y_0 = [1,0,1,1,0,1,0,1]$/;"	kind:variable	line:149
+pred_y_1	../预测模型/evaluate.py	/^    pred_y_1 = [1, 0.8, 0.2, 1.2, 0, 1.0, 0, 1.7, 2.1, 3.1]$/;"	kind:variable	line:152
+pred_y_2	../预测模型/evaluate.py	/^    pred_y_2 = [1, 0, 1, 1.2, 0, 1, 0, 1]$/;"	kind:variable	line:155
+predict	../评价模型/SOM.py	/^    def predict(self, x):$/;"	kind:member	line:87
+predict	../预测模型/neural_network.py	/^    def predict(self):$/;"	kind:member	line:212
+predict_num	../预测模型/ML_classify_model.py	/^    predict_num = -3$/;"	kind:variable	line:69
+print_error	../评价模型/SOM.py	/^    def print_error(self):$/;"	kind:member	line:42
+pso	../优化模型/PSO.py	/^    pso = PSO()$/;"	kind:variable	line:103
+pso_begin	../优化模型/PSO.py	/^    def pso_begin(self):$/;"	kind:member	line:96
+r_square	../预测模型/evaluate.py	/^    def r_square(self):$/;"	kind:member	line:120
+rbf_svr	../预测模型/SVR.py	/^rbf_svr = SVR(kernel = 'rbf')$/;"	kind:variable	line:40
+rbf_svr_y_predict	../预测模型/SVR.py	/^rbf_svr_y_predict = rbf_svr.predict(X_test)$/;"	kind:variable	line:42
+recall	../预测模型/evaluate.py	/^    def recall(self):$/;"	kind:member	line:33
+replace_outlier	../小工具/data_clean.py	/^def replace_outlier(df):$/;"	kind:function	line:133
+reset_distance	../优化模型/sa_tsp_example.py	/^    def reset_distance(self):$/;"	kind:member	line:34
+result	../优化模型/sa_tsp_example.py	/^    result = get_shortest_distance(graph)$/;"	kind:variable	line:183
+result_list	../小工具/Association_rules.py	/^result_list = []$/;"	kind:variable	line:32
+roc_plot	../预测模型/evaluate.py	/^    def roc_plot(self, title='Receiver operating characteristic plot'):$/;"	kind:member	line:79
+roc_score	../预测模型/evaluate.py	/^    def roc_score(self):$/;"	kind:member	line:76
+sa	../优化模型/simulated_annealing.py	/^    sa = SimulatedAnnealing('')$/;"	kind:variable	line:93
+sa_tsp_example.py	../优化模型/sa_tsp_example.py	1;"	kind:file	line:1
+sample	../plot/google_map_api.py	/^def sample(lis,amount):$/;"	kind:function	line:37
+scaler	../预测模型/LSTM_predict.py	/^scaler = MinMaxScaler(feature_range=(0, 1))$/;"	kind:variable	line:44
+simulated_annealing.py	../优化模型/simulated_annealing.py	1;"	kind:file	line:1
+single_predict	../预测模型/neural_network.py	/^    def single_predict(self, x_array):$/;"	kind:member	line:227
+split_by_part	../预测模型/neural_network.py	/^        def split_by_part(DS, proportion=0.9):$/;"	kind:function	line:191
+ss_X	../预测模型/SVR.py	/^ss_X = StandardScaler()$/;"	kind:variable	line:20
+ss_y	../预测模型/SVR.py	/^ss_y = StandardScaler()$/;"	kind:variable	line:21
+standardize	../小工具/data_clean.py	/^def standardize(df, excep_columns=[]):$/;"	kind:function	line:88
+svm	../预测模型/ML_classify_model.py	/^    def svm(self):$/;"	kind:member	line:40
+svm_cv	../预测模型/ML_classify_model.py	/^    def svm_cv(self):$/;"	kind:member	line:47
+temp	../小工具/Association_rules.py	/^    temp = '-'.join([k for k in i[0]]) + ',' + '-'.join([k for k in i[1]]) + ','$/;"	kind:variable	line:34
+temp	../小工具/data_clean.py	/^    temp = df['price'].values$/;"	kind:variable	line:172
+testPredict	../预测模型/LSTM_predict.py	/^testPredict = model.predict(testX)$/;"	kind:variable	line:66
+testPredict	../预测模型/LSTM_predict.py	/^testPredict = scaler.inverse_transform(testPredict)$/;"	kind:variable	line:70
+testPredictPlot	../预测模型/LSTM_predict.py	/^testPredictPlot = numpy.empty_like(dataset)$/;"	kind:variable	line:82
+testScore	../预测模型/LSTM_predict.py	/^testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:,0]))$/;"	kind:variable	line:75
+testX	../预测模型/LSTM_predict.py	/^testX = numpy.reshape(testX, (testX.shape[0], 1, testX.shape[1]))$/;"	kind:variable	line:56
+testY	../预测模型/LSTM_predict.py	/^testY = scaler.inverse_transform([testY])$/;"	kind:variable	line:71
+test_case	../小工具/Association_rules.py	/^test_case = [$/;"	kind:variable	line:13
+test_size	../预测模型/LSTM_predict.py	/^test_size = len(dataset) - train_size$/;"	kind:variable	line:48
+trade_account.py	../小工具/trade_account.py	1;"	kind:file	line:1
+train	../评价模型/SOM.py	/^    def train(self):$/;"	kind:member	line:39
+train	../预测模型/neural_network.py	/^    def train(self, times = 1000):$/;"	kind:member	line:208
+trainPredict	../预测模型/LSTM_predict.py	/^trainPredict = model.predict(trainX)$/;"	kind:variable	line:65
+trainPredict	../预测模型/LSTM_predict.py	/^trainPredict = scaler.inverse_transform(trainPredict)$/;"	kind:variable	line:68
+trainPredictPlot	../预测模型/LSTM_predict.py	/^trainPredictPlot = numpy.empty_like(dataset)$/;"	kind:variable	line:78
+trainScore	../预测模型/LSTM_predict.py	/^trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:,0]))$/;"	kind:variable	line:73
+trainX	../预测模型/LSTM_predict.py	/^trainX = numpy.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))$/;"	kind:variable	line:55
+trainY	../预测模型/LSTM_predict.py	/^trainY = scaler.inverse_transform([trainY])$/;"	kind:variable	line:69
+train_and_predict	../预测模型/neural_network.py	/^def train_and_predict(fnn, dataTrain, dataTest):$/;"	kind:function	line:88
+train_size	../预测模型/LSTM_predict.py	/^train_size = int(len(dataset) * 0.67)$/;"	kind:variable	line:47
+tree	../预测模型/decision_tree.py	/^    tree = Tree(df)$/;"	kind:variable	line:86
+true_y_0	../预测模型/evaluate.py	/^    true_y_0 = [1,1,0,1,0,1,1,1]$/;"	kind:variable	line:148
+true_y_1	../预测模型/evaluate.py	/^    true_y_1 = [1, 1, 0, 1, 0, 1, 1, 0, 1, 1]$/;"	kind:variable	line:151
+true_y_2	../预测模型/evaluate.py	/^    true_y_2 = [1, 1, 0.9, 1.1, 0.1, 1, 1, 0]$/;"	kind:variable	line:154
+update_particle	../优化模型/PSO.py	/^    def update_particle(self):$/;"	kind:member	line:79
+vote	../预测模型/decision_tree.py	/^    def vote(df, columns_name, value):$/;"	kind:member	line:38
+winsorize	../小工具/data_clean.py	/^def winsorize(df, low_q=1, up_q=99):$/;"	kind:function	line:138
+x	../优化模型/simulated_annealing.py	/^    x = sa.begin()$/;"	kind:variable	line:94
+y	../预测模型/SVR.py	/^y = boston.target$/;"	kind:variable	line:10
+y_test	../预测模型/SVR.py	/^y_test = ss_y.transform(y_test)$/;"	kind:variable	line:26
+y_train	../预测模型/SVR.py	/^y_train = ss_y.fit_transform(y_train)$/;"	kind:variable	line:25
